@@ -1,6 +1,6 @@
 # SPOTIFY CLONE 🎶
 
-### Esta é uma página desenvolvida durante a Imersão Front-End da Alura, onde recriamos a homepage do Spotify. Essa é a versão usando apenas HTML, CSS e JavaScript. Além do que foi feito durante a aula, meu projeto permite ouvir as músicas dos artistas no navegador. Para acessar o deploy da página no GitHub Pages é só clicar <a href="https://viquiiz.github.io/frontend-spotify-clone/" target="_blank">aqui</a>.
+### Esta é uma página desenvolvida durante a Imersão Front-End da Alura, onde recriamos a homepage do Spotify. Essa é a versão usando apenas HTML, CSS e JavaScript. Além do que foi feito durante a aula, meu projeto permite ouvir as músicas dos artistas no navegador. Para acessar o deploy da página no GitHub Pages é só clicar <a href="https://viquiiz.github.io/frontend-spotify-clone/">aqui</a>.
 
 <hr>
 
