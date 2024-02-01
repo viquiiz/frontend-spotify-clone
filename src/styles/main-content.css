@@ -329,8 +329,8 @@
 
 .play .fa-play {
 	position: absolute;
-	right: 10px;
-	top: 120px;
+	left: 12rem;
+	top: 12rem;
 	padding: 18px;
 	background-color: #1db954;
 	border-radius: 100%;
