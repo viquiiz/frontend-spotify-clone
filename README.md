@@ -1,15 +1,11 @@
 # SPOTIFY CLONE 🎶
 
-### Esta é uma página desenvolvida durante a Imersão Front-End da Alura, onde recriamos a homepage do Spotify. Essa é a versão usando apenas HTML, CSS e JavaScript e está disponível <a href="">neste link</a>. para ver o repositório da versão usando React é só clicar <a href="">aqui</a>.
-
-imagem
-
-Preview da página no navegador
+### Esta é uma página desenvolvida durante a Imersão Front-End da Alura, onde recriamos a homepage do Spotify. Essa é a versão usando apenas HTML, CSS e JavaScript. Além do que foi feito durante a aula, meu projeto permite ouvir as músicas dos artistas no navegador. Para acessar o deploy da página no GitHub Pages é só clicar <a href="">aqui</a>.
 
 <hr>
 
 ### Artistas:
-A busca do site funciona com base no arquivo artists.json. A lista de artistas disponível para busca no site é a seguinte:
+A busca do site funciona com base no arquivo artists.json. A lista de artistas disponível para buscar no site é a seguinte:
 1. Foo Fighters
 2. Michael Jackson
 3. System Of A Down
@@ -18,12 +14,8 @@ A busca do site funciona com base no arquivo artists.json. A lista de artistas d
 6. Arlindo Cruz
 7. Belchior
 
+Para reproduzir a música do artista escolhido basta clicar no ícone de "play" quando o artista aparecer. Ainda serão implementadas funcionalidades de pausar a música e controlar o volume.
+
 <hr>
 
-### 🛠 instalando o projeto:
-1. 
-2. 
-
-### 💽 Rodando o projeto localmente:
-1. 
-2. 
+🌐 Para rodar localmente, basta baixar esse repositório e abrir o arquivo index.html no seu navegador ou abrir o projeto na IDE de sua prefência caso queira fazer alguma modificação no código.
